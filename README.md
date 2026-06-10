@@ -85,12 +85,11 @@ I'm currently improving my skills in:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMondal&layout=compact&theme=github_dark&hide_border=true)
 
 ---
-
 ## 📫 Connect With Me
 
 - GitHub: [@HarshMondal](https://github.com/HarshMondal)
-- LinkedIn: add your LinkedIn link here
-- Email: add your email here
+- LinkedIn: [Harsh Mondal](https://www.linkedin.com/in/harshmondal/)
+- Email: harshmondal69@gmail.com
 
 ---
 
