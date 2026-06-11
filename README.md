@@ -60,9 +60,6 @@ Interactive algorithm visualizer for learning data structures and algorithms thr
 ### [AI Hub MCP Server](https://github.com/HarshMondal/ai-hub-mcpserver)
 Production-ready Model Context Protocol server that exposes tools like Weather, GitHub, Slack, and automation APIs to MCP-compatible AI assistants.
 
-### [Claude Code Statusline Cache Warning](https://github.com/HarshMondal/cc-statusline-cache-reset-warning)
-Developer utility for Claude Code that tracks cache TTL and displays warnings when context cache may reset.
-
 ---
 
 ## 🧠 Current Focus
